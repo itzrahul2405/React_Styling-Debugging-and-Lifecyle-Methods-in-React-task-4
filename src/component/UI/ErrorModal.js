@@ -48,4 +48,4 @@ const ErrorModal = (props) => {
 
 export default ErrorModal;
 
-// createPortal()   method takes 2 arguments =>  1. first one is React node that should be rendered    2. second argument is a pointer to that container in a real dom where this element should be rendered in.
+// createPo  rtal()   method takes 2 arguments =>  1. first one is React node that should be rendered    2. second argument is a pointer to that container in a real dom where this element should be rendered in.
